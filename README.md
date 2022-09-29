@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi there 👋 I'm Steve
+My name is Steven
 <br />
 🌱 I’m currently learning how to become a Web Developer
 <br />
