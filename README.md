@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi there 👋 I'm Steve
+🌱 I’m currently learning how to become a Web Developer
+👯 I’m looking to collaborate on beginner projects
+🤔 I’m looking for help with improving my skills
+💬 Ask me about my Lost Ark raids :grin:
