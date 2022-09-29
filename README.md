@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi there 👋 I'm Steve
+<br />
 🌱 I’m currently learning how to become a Web Developer
+<br />
 👯 I’m looking to collaborate on beginner projects
+<br />
 🤔 I’m looking for help with improving my skills
+<br />
 💬 Ask me about my Lost Ark raids :grin:
