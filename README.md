@@ -21,5 +21,4 @@ My name is Steven
 👯 I’m looking to collaborate on beginner projects
 <br />
 🤔 I’m looking for help with improving my skills
-<br />
-💬 Ask me about my Lost Ark raids :grin:
+
