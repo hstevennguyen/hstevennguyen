@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 My name is Steven
 <br />
-🌱 I’m currently learning how to become a Web Developer
+🌱 I’m looking for professional experience as a Front End Developer
 <br />
 👯 I’m looking to collaborate on beginner projects
 <br />
